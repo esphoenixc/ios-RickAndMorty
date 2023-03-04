@@ -13,5 +13,6 @@ enum RMEndpoint: String {
     case character //"Character" as a string raw value
     ///Endpoint to Location
     case location
+    /// Endpoint to episode
     case episode
 }
